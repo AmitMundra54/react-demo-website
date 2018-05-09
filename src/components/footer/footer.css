@@ -1,0 +1,18 @@
+
+#footer {
+    position: relative;
+    top: 650px;
+    background-color: black;
+}
+.contain {
+    padding: 50px;
+}
+.hr {
+    color: white;
+    width: 100%;
+    position: relative;
+    top: 20px;
+}
+.white {
+    color: white;
+}

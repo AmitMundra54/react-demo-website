@@ -1,0 +1,23 @@
+#service {
+    background-image: url('../../assets/services.jpeg');
+    position: relative;
+    top: 650px;
+    height: 500px;
+    background-attachment: fixed;
+}
+.service-h1 {
+    color: rgba(255, 255, 255, 1);
+    font-family: Roboto;
+    font-weight: 900;
+    line-height: 130%;
+    letter-spacing: 0;
+    font-size: 3.125rem;
+
+}
+.align-left {
+    text-align: left;
+}
+.service-position {
+    position: relative;
+    top: 80px;
+}

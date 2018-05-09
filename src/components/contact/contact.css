@@ -1,0 +1,13 @@
+#contact {
+    position: relative;
+    top:700px;
+    height: 200px;
+}
+.contact-h1 {
+    color: black;
+    font-family: Roboto;
+    font-weight: 900;
+    line-height: 130%;
+    letter-spacing: 0;
+    font-size: 3.125rem;
+}
